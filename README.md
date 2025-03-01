@@ -1,5 +1,5 @@
 # MagicChart
-Magic Chart is an AI-powered tool designed to predict the high and low points of the NIFTY50 index that might reach during specific timeframes (1, 3, 5, 15 minutes, and 1 hour) for the currently open market candle.
+Magic Chart is an AI-powered leading indicator designed to predict the high and low points of the NIFTY50 index that might reach during specific timeframes (1, 3, 5, 15 minutes, and 1 hour) for the currently open market candle.
 
 Key Features:
 1. Powered by advanced "transformer models" to analyze market trends.
@@ -10,7 +10,7 @@ Key Features:
 Experience here: https://farhaan-magicchart.onrender.com/
 
 Demo Video
-https://github.com/user-attachments/assets/1557858f-600c-462d-a099-6dec91e92eff
+https://github.com/user-attachments/assets/4ca997dd-8a34-4ddb-b03c-c6c7c087ffc0
 
 Login Page
 ![image](https://github.com/user-attachments/assets/65ad26ba-751d-4713-a36a-ba76b3cf1312)
